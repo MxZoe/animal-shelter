@@ -1,0 +1,25 @@
+.title{
+  text-align: center;
+  background-color: burlywood;
+}
+
+.animal{
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+
+.animal img{
+  border: 2px solid rgb(109, 90, 66);
+  
+
+  width: 90%;
+}
+
+.animal ul{
+  text-align: left;
+}
+
+body{
+  background-color: blanchedalmond;
+}
